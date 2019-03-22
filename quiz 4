@@ -1,0 +1,7 @@
+class Main {
+	  public static void main(String[] args) {
+	    int fahrenheit = 212;
+	    int celsius = (fahrenheit - 32) * 5/9;
+	    System.out.println("212 fahrenheit is equal to " + celsius +" celsius");
+	  }
+	}
